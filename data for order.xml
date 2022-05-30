@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<computer>	
+	<pc>
+		<motherboard>MSI Tomahawk</motherboard>
+		<cpu>Intel core i5 11400</cpu>
+		<ram>Kingston DDR4 3200 MHz</ram>
+		<rom>Samsung SSD M.2 1000 Gb</rom>
+	</pc>
+
+	<monitor>
+		<model>ASUS VA247HE</model>
+		<inch>23.8"</inch>
+		<display>IPS</display>
+	</monitor>
+
+	<manipulations>
+		<combo>Wireless Keyboard & Mouse</combo>
+	</manipulations>
+</computer>	

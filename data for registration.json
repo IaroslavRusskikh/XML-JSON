@@ -1,0 +1,17 @@
+{
+	"userName": "Тестировщик1",
+	"userEmail": "test1@yandex.ru",
+	"password": 012345
+}
+
+{
+	"userName": "Тестировщик2",
+	"userEmail": "test2@yandex.ru",
+	"password": 543210
+}
+
+{
+	"userName": "Тестировщик3",
+	"userEmail": "test3@yandex.ru",
+	"password": 012543
+}
